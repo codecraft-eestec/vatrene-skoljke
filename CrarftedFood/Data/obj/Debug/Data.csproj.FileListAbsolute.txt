@@ -1,0 +1,6 @@
+C:\CODE CRAFT\Unofficial\CrarftedFood\Data\bin\Debug\Data.dll.config
+C:\CODE CRAFT\Unofficial\CrarftedFood\Data\bin\Debug\Data.dll
+C:\CODE CRAFT\Unofficial\CrarftedFood\Data\bin\Debug\Data.pdb
+C:\CODE CRAFT\Unofficial\CrarftedFood\Data\obj\Debug\Data.dll
+C:\CODE CRAFT\Unofficial\CrarftedFood\Data\obj\Debug\Data.pdb
+C:\CODE CRAFT\Unofficial\CrarftedFood\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
